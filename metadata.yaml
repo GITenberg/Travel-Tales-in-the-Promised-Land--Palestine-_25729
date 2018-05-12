@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1018
     wikipedia: http://en.wikipedia.org/wiki/Karl_May
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25729#Travel-Tales-in-the-Promised-Land--Palestine-
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2008-06-08'
 gutenberg_type: Text
