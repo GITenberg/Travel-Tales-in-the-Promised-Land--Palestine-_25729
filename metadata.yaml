@@ -1,0 +1,33 @@
+_repo: Travel-Tales-in-the-Promised-Land--Palestine-_25729
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: May, Karl
+    aliases:
+    - Linden, E. von
+    - May, Karl Friedrich
+    - May, Carl
+    - Hohenthal, Karl
+    birthdate: 1842
+    deathdate: 1912
+    gutenberg_agent_id: '1018'
+    url: http://www.gutenberg.org/2009/agents/1018
+    wikipedia: http://en.wikipedia.org/wiki/Karl_May
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2008-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25729'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'DS'
+- !lcsh 'Middle East -- Description and travel'
+title: Travel Tales in the Promised Land (Palestine)
+url: http://www.gutenberg.org/ebooks/25729
